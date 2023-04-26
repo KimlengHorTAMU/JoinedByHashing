@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		71B0BAFF29F0A772009B0667 /* JoinedByHasing */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JoinedByHasing; sourceTree = BUILT_PRODUCTS_DIR; };
 		71B0BB0229F0A772009B0667 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		71B0BB0929F0A815009B0667 /* relation.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = relation.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		71B0BAF629F0A772009B0667 = {
 			isa = PBXGroup;
 			children = (
+				71B0BB0929F0A815009B0667 /* relation.txt */,
 				71B0BB0129F0A772009B0667 /* JoinedByHasing */,
 				71B0BB0029F0A772009B0667 /* Products */,
 			);
@@ -97,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 71B0BAFA29F0A772009B0667 /* Build configuration list for PBXProject "JoinedByHasing" */;
+			buildConfigurationList = 71B0BAFA29F0A772009B0667 /* Build configuration list for PBXProject "JoinedByHashing" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -265,7 +267,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		71B0BAFA29F0A772009B0667 /* Build configuration list for PBXProject "JoinedByHasing" */ = {
+		71B0BAFA29F0A772009B0667 /* Build configuration list for PBXProject "JoinedByHashing" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				71B0BB0429F0A772009B0667 /* Debug */,
